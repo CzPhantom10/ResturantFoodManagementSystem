@@ -18,7 +18,7 @@ This project is a Restaurant Food Management System built using Python and Strea
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/restaurant-food-management-system.git
+   https://github.com/CzPhantom10/ResturantFoodManagementSystem.git
    cd restaurant-food-management-system
 
 2. **How to run**:
